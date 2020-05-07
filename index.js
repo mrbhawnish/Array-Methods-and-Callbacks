@@ -1,4 +1,4 @@
-import { fifaData } from './fifa.js';
+const fifaData = require('./fifa.js');
 console.log(fifaData);
 
 
